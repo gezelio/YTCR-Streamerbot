@@ -4,4 +4,9 @@
 - Login to your YTCR dashboard [here](https://ytcr.gezel.io)
 
 Watch the tutorial below:
-  [![Tutorial Video](https://img.youtube.com/vi/FNc9ez3S5fc/0.jpg)](https://www.youtube.com/watch?v=FNc9ez3S5fc) 
+
+
+
+
+
+[![Tutorial Video](https://img.youtube.com/vi/FNc9ez3S5fc/0.jpg)](https://www.youtube.com/watch?v=FNc9ez3S5fc) 
